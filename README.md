@@ -1,7 +1,9 @@
 # 预训练的字向量 (pre-trained-character-embedding)
-后续相关英文介绍和相关下载链接将会补全 (The English introduction will be completed later.)
+后续相关英文介绍和相关下载链接将会补全 (The Chinese and English introduction will be completed later.)
+
 有关详细信息也可参考论文： Pre-trained Character Embedding for Chinese Sequence Labeling.
-(The related paper: Pre-trained Character Embedding for Chinese~Sequence~Labeling)
+
+(The related paper: Pre-trained Character Embedding for Chinese Sequence Labeling)
 
 ## 新闻
 
